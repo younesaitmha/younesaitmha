@@ -44,7 +44,7 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
-[<img src="https://img.shields.io/badge/LinkedIn-younesaitmha-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
+[<img src="https://img.shields.io/badge/LinkedIn-younes-ait-mha-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
 [<img src="https://img.shields.io/badge/Twitter-@MhaYounes-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
 <!--[<img src="https://img.shields.io/badge/Stackoverflow-karthik--nayak-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]-->
 
@@ -72,7 +72,7 @@
  </br>
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=younesaitmhacolumn=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=younesaitmha&theme=onedark"/>
   </a>
  </p>
 </details>
@@ -82,10 +82,10 @@
 
 <!--START_SECTION:activity-->
 <!--1. 🗣 Commented on [#844](https://github.com/anuraghazra/github-readme-stats/issues/844) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 🗣 Commented on [#4940](https://github.com/simple-icons/simple-icons/issues/4940) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-3. 💪 Opened PR [#10916](https://github.com/zero-to-mastery/start-here-guidelines/pull/10916) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
-4. 🗣 Commented on [#5](https://github.com/codeSTACKr/free-developer-resources/issues/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 💪 Opened PR [#5](https://github.com/codeSTACKr/free-developer-resources/pull/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+1. 🗣 Commented on [#4940](https://github.com/simple-icons/simple-icons/issues/4940) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+2. 💪 Opened PR [#10916](https://github.com/zero-to-mastery/start-here-guidelines/pull/10916) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+3. 🗣 Commented on [#5](https://github.com/codeSTACKr/free-developer-resources/issues/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+4. 💪 Opened PR [#5](https://github.com/codeSTACKr/free-developer-resources/pull/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
 <!--END_SECTION:activity-->
 
 </details>
@@ -124,4 +124,4 @@ base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJod
 [linkedin]: https://www.linkedin.com/in/younesaitmha
 [gmail]: mailto:younesaitmha@gmail.com 'Lets connect through email'
 [github]: https://github.com/younesaitmha
-[twitter]: https://twitter.com/KarthikNayak98
+[twitter]: https://twitter.com/MhaYounes
