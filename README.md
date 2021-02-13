@@ -1,18 +1,4 @@
-### Hi there 👋
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-# <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px">I'm Karthik Nayak** 🎯️🚀️</p>
+# <p align="center">️ **Hello Coders!!<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px">I'm Younes Ait M'ha** 🎯️🚀️</p
 
 </br>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
@@ -22,6 +8,14 @@
 - I'm aspiring 🔭️ Front-End Web Developer currently learning 🌱 **ReactJs**.
 - I always like working in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 </br>
 </br>
@@ -40,11 +34,11 @@
   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="40" />
   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="40" />
   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="40"  />
-  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40"  />
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" width="40">
   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="40"  />
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40px"/>
-   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim" width="40" />
-   <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40"  />
+  <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim" width="40" />
+  <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" width="40" />
   <img align="center" style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="40" />
 </p>
 
@@ -64,11 +58,11 @@
   <summary>📊 Github Readme Stats</summary>
  </br>
  <p align="center">
-  <a href="https://github.com/Karthik-Nayak98">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-Nayak98&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com/younesaitmha">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=younesaitmha&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Karthik-Nayak98&layout=compact&theme=radical&langs_count=6" />
+  <a href="https://github.com/younesaitmha/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=younesaitmha&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
 </details>
@@ -78,7 +72,7 @@
  </br>
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=Karthik-Nayak98&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=younesaitmhacolumn=8&theme=darkhub"/>
   </a>
  </p>
 </details>
@@ -127,10 +121,7 @@ base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJod
 
 <!-- Links of Definitions -->
 
-[linkedin]: https://www.linkedin.com/in/karthik-nayak24
-[gmail]: mailto:karunayak63@gmail.com 'Lets connect through email'
-[stackoverflow]: https://stackoverflow.com/users/9395755/karthik-nayak
-[github]: https://github.com/KarthikNayak024
-[licence]:
-  https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENSE
+[linkedin]: https://www.linkedin.com/in/younesaitmha
+[gmail]: mailto:younesaitmha@gmail.com 'Lets connect through email'
+[github]: https://github.com/younesaitmha
 [twitter]: https://twitter.com/KarthikNayak98
