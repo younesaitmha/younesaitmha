@@ -5,16 +5,19 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- I'm aspiring 🔭️ Full-Stack Web Developer currently learning 🌱 **ReactJs**.
+- I'm aspiring 🔭️ Full-Stack Web Developer currently learning 🌱 **ReactJs** & **GraghQL**.
 - I always like working in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 - 🔭 I’m currently working as a software engineer at Raina Solution
-- 🌱 I’m currently learning **ES6** & **ReactJs**
-- 👯 I’m looking to collaborate on openSource projects
-<!--- 🤔 I’m looking for help with ...-->
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning **ES6**, **ReactJs** & **GraghQL**.
+- 👯 I’m looking to collaborate on openSource projects.
+- 🤔 I’m looking for help with getting to MAANG.
+- 💬 Ask me about (if i can help, sure! i will do.):
+    - Mathematics
+    - Software Engineering
+    - Business 
+- 😄 Pronouns: He / Him
+<!--- ⚡ Fun fact: ... --->
 
 </br>
 </br>
