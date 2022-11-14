@@ -5,11 +5,11 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- I'm aspiring 🔭️ Full-Stack Web Developer currently learning 🌱 **ReactJs** & **GraghQL**.
+- I'm aspiring 🔭️ Full-Stack Web Developer currently learning 🌱 **DevOps**.
 - I always like working in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
-- 🔭 I’m currently working as a software engineer at Raina Solution
-- 🌱 I’m currently learning **ES6**, **ReactJs** & **GraghQL**.
+- 🔭 I’m currently working as a Software & Automation Engineer at Orange Business Services.
+- 🌱 I’m currently learning Docker, K8s & Golang.
 - 👯 I’m looking to collaborate on openSource projects.
 - 🤔 I’m looking for help with getting to MAANG.
 - 💬 Ask me about (if i can help, sure! i will do.):
