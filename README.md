@@ -9,7 +9,7 @@
 - I always like working in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 - 🔭 I’m currently working as a Software & Automation Engineer at Orange Business Services.
-- 🌱 I’m currently learning Docker, K8s & Golang.
+- 🌱 I’m currently learning Docker, K8s & Jenkins.
 - 👯 I’m looking to collaborate on openSource projects.
 - 🤔 I’m looking for help with getting to MAANG.
 - 💬 Ask me about (if i can help, sure! i will do.):
