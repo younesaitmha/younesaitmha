@@ -5,19 +5,21 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- I'm aspiring 🔭️ Full-Stack Web Developer currently learning 🌱 **DevOps**.
-- I always like working in 🐧️**Linux** Environment.
-- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
-- 🔭 I’m currently working as a Software & Automation Engineer at Orange Business Services.
-- 🌱 I’m currently learning Docker, K8s & Jenkins.
-- 👯 I’m looking to collaborate on openSource projects.
-- 🤔 I’m looking for help with getting to MAANG.
-- 💬 Ask me about (if i can help, sure! i will do.):
+- I'm a 🔭️ Software & Data Engineer with growing experience in 🌱 **DevOps** practices and **cloud-native** technologies.
+- I thrive in 🐧️**Linux** environments and enjoy building scalable and efficient systems.
+- Lifelong learner passionate about exploring new 💻 **technologies**, **architectures**, and **tools**.
+- 🌱 Currently deepening my expertise in **Kubernetes**, **CI/CD pipelines**, and **data platforms**.
+- 🤝 Open to collaborating on open-source projects, especially in **data**, **infrastructure**, or **backend engineering**..
+- 🤔 My goal is to grow into **engineering leadership** and work on impactful systems at top-tier tech companies..
+- 💬 Feel free to reach out if you want to talk about:
     - Mathematics
     - Software Engineering
+    - Data Engineering
+    - Tech Careers
+    - DevOps
     - Business 
 - 😄 Pronouns: He / Him
-<!--- ⚡ Fun fact: ... --->
+- ⚡ Fun fact: Data Engineer by day, accidental DevOps firefighter by night — because nothing says fun like debugging pipelines while drinking cold coffee.
 
 </br>
 </br>
