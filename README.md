@@ -1,6 +1,6 @@
 # <p align="center">️ **Hello Coders<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px">!** <br> **I'm Younes Ait M'ha** 🎯️🚀️</p>
 
-</br>
+<br/>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
@@ -9,8 +9,8 @@
 - I thrive in 🐧️**Linux** environments and enjoy building scalable and efficient systems.
 - Lifelong learner passionate about exploring new 💻 **technologies**, **architectures**, and **tools**.
 - 🌱 Currently deepening my expertise in **Kubernetes**, **CI/CD pipelines**, and **data platforms**.
-- 🤝 Open to collaborating on open-source projects, especially in **data**, **infrastructure**, or **backend engineering**..
-- 🤔 My goal is to grow into **engineering leadership** and work on impactful systems at top-tier tech companies..
+- 🤝 Open to collaborating on open-source projects, especially in **data**, **infrastructure**, or **backend engineering**.
+- 🤔 My goal is to grow into **engineering leadership** and work on impactful systems at top-tier tech companies.
 - 💬 Feel free to reach out if you want to talk about:
     - Mathematics
     - Software Engineering
@@ -21,13 +21,13 @@
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: Data Engineer by day, accidental DevOps firefighter by night — because nothing says fun like debugging pipelines while drinking cold coffee.
 
-</br>
-</br>
+<br/>
+<br/>
 <p align="center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=younesaitmha&theme=radical&hide_border=true"/>
 </p>
 
-</br>
+<br/>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
@@ -52,19 +52,19 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
-[<img src="https://img.shields.io/badge/LinkedIn-younesaitmha-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
-[<img src="https://img.shields.io/badge/Twitter-@MhaYounes-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
+[<img src="https://img.shields.io/badge/LinkedIn-younesaitmha-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&color=0077b5"/>][linkedin]
+[<img src="https://img.shields.io/badge/Twitter-@MhaYounes-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=1DA1F2&color=1da1f2"/>][twitter]
 
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=younesaitmha&&style=flat" align="center" />
 </p>
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **GitHub Stats:**
 
 <details>
-  <summary>📊 Github Readme Stats</summary>
- </br>
+  <summary>📊 GitHub Readme Stats</summary>
+ <br/>
  <p align="center">
   <a href="https://github.com/younesaitmha">
    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=younesaitmha&show_icons=true&theme=radical&count_private=true">
@@ -76,8 +76,8 @@
 </details>
 
 <details>
- <summary>🏆 Github Profile Trophy</summary>
- </br>
+ <summary>🏆 GitHub Profile Trophy</summary>
+ <br/>
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
    <img src="https://github-profile-trophy.vercel.app/?username=younesaitmha&theme=onedark"/>
@@ -89,11 +89,7 @@
  <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-<!--1. 🗣 Commented on [#844](https://github.com/anuraghazra/github-readme-stats/issues/844) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-1. 🗣 Commented on [#4940](https://github.com/simple-icons/simple-icons/issues/4940) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 💪 Opened PR [#10916](https://github.com/zero-to-mastery/start-here-guidelines/pull/10916) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
-3. 🗣 Commented on [#5](https://github.com/codeSTACKr/free-developer-resources/issues/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 💪 Opened PR [#5](https://github.com/codeSTACKr/free-developer-resources/pull/5) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+1. No recent activity updates available.
 <!--END_SECTION:activity-->
 
 </details>
