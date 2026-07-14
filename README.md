@@ -86,7 +86,7 @@
 </details>
 
 <details>
- <summary>⚡ Recent Github Activity</summary>
+ <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 1. No recent activity updates available.
